@@ -1,7 +1,0 @@
-void settings() {
-  
-}
-
-void settingsClicks()  {
-  
-}
